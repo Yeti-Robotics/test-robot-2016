@@ -37,6 +37,8 @@ public class Robot extends IterativeRobot {
 		right1.setInverted(true);
 		right2.setInverted(true);
 		right3.setInverted(true);
+		
+		timer = 0;
 	}
 
 	/**
